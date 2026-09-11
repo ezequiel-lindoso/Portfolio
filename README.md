@@ -12,4 +12,6 @@ Este projeto representa o início da minha jornada na programação e o meu comp
 
 Você pode acessar a versão hospedada do meu portfólio na Vercel:
 
-[**Visitar meu portfólio**](https://portfolio-ezequiel-ferreira.vercel.app/)
+<a href="https://portfolio-ezequiel-ferreira.vercel.app/" target="_blank" rel="noopener noreferrer">
+**Visite meu portfólio**
+</a>
